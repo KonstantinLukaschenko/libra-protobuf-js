@@ -1,0 +1,26 @@
+{
+  "name": "libra-protobuf-js",
+  "version": "1.0.0",
+  "description": "Protobufjs definitions for the Libra financial infrastructure.",
+  "main": "dist/libra-protobuf.js",
+  "types": "src/libra-protobuf.d.ts",
+  "scripts": {
+    "protobuf": "./protobufjs.sh",
+    "build": "tsc -b"
+  },
+  "keywords": [
+    "Libra",
+    "Protobufjs",
+    "Proto",
+    "Buffers",
+    "Blockchain"
+  ],
+  "author": "Konstantin Lukaschenko",
+  "license": "MIT",
+  "dependencies": {
+    "protobufjs": "^6.8.8"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
