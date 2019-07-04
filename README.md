@@ -2,4 +2,4 @@
 
 # libra-protobuf-js [![npm version](https://badge.fury.io/js/libra-protobuf-js.svg)](https://badge.fury.io/js/libra-protobuf-js) [![Build Status](https://travis-ci.org/KonstantinLukaschenko/libra-protobuf-js.svg?branch=master)](https://travis-ci.org/KonstantinLukaschenko/libra-protobuf-js)
 
-Protobufjs definitions for the Libra financial infrastructure. They define the API model for the Admission Control, which is Libra's gRPC API endpoint.
+Protobufjs definitions for the Libra financial infrastructure. They define the API model for the Admission Control, which is Libra's public gRPC API endpoint.
