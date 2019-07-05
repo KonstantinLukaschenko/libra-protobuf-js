@@ -1,1 +1,3 @@
 protobufjs.sh
+.travis.yml
+yarn.lock
